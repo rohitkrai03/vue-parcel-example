@@ -1,0 +1,10 @@
+{
+  "name": "vue-parcel-example",
+  "version": "0.0.1",
+  "description": "Minimum viable Vue app with Parcel Bundler",
+  "main": "index.js",
+  "repository": "git@github.com:rohitkrai03/vue-parcel-example.git",
+  "author": "Rohit Rai <rohitkrai03@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
